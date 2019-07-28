@@ -1,0 +1,1 @@
+web: gunicorn weakkcruit.wsgi --log-file -
